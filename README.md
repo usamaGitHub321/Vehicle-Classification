@@ -71,7 +71,7 @@ To use the project, follow these steps:
 - **Data Expansion**: Collect and label more data to improve the model's performance.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Acknowledgements
 - **Roboflow**: For providing tools for data labeling and augmentation.
